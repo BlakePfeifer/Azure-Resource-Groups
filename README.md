@@ -53,7 +53,8 @@ A **Resource Group** in Azure is a container that holds related resources for an
 ### 3. Start Creating a New Resource Group
 - Click on the **"+ Create"** button at the top.
 
-<!-- IMAGE: Insert screenshot of clicking "+ Create" -->
+![image](https://github.com/user-attachments/assets/f78ea5f5-6ae2-4ee7-8889-0a1a1aa4158e)
+
 
 ---
 
@@ -62,7 +63,8 @@ A **Resource Group** in Azure is a container that holds related resources for an
 - **Resource Group Name**: Enter a meaningful name (example: `MyFirstResourceGroup`).
 - **Region**: Select a region closest to where your resources will be hosted (example: `East US`).
 
-<!-- IMAGE: Insert screenshot of the "Create Resource Group" form -->
+![image](https://github.com/user-attachments/assets/ea8cdf73-4096-40ae-974c-b79bad917672)
+
 
 ---
 
@@ -71,7 +73,8 @@ A **Resource Group** in Azure is a container that holds related resources for an
 - Confirm your details are correct.
 - Then click **"Create"** to finish creating the resource group.
 
-<!-- IMAGE: Insert screenshot of the "Review + Create" screen -->
+![image](https://github.com/user-attachments/assets/17200595-c657-403f-a28c-a760a5f27fca)
+
 
 ---
 
@@ -79,7 +82,11 @@ A **Resource Group** in Azure is a container that holds related resources for an
 - Once created, you can view your new Resource Group under the **Resource groups** section.
 - Click on it to see its overview and manage resources inside it.
 
-<!-- IMAGE: Insert screenshot of the created Resource Group Overview -->
+![image](https://github.com/user-attachments/assets/aa965b49-99cb-44b9-9386-babbafdcd680)
+![image](https://github.com/user-attachments/assets/04736155-f176-4863-a452-dbdcef131a7a)
+
+![image](https://github.com/user-attachments/assets/48cec289-0bc3-4a26-9e63-13dc30a7fed1)
+
 
 ---
 
