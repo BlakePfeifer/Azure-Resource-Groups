@@ -6,9 +6,6 @@ In this tutorial, we will walk through how to create a resource group in Microso
 
 A **Resource Group** in Azure is a container that holds related resources for an Azure solution. It helps organize and manage services like virtual machines, databases, and storage accounts under a single group for easier monitoring, security, and billing.
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
